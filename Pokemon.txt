@@ -1,0 +1,2957 @@
+Name      : Bulbasaur
+Type      : Grass,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Ivysaur
+Type      : Grass,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Evolve Bulbasaur
+
+Name      : Venusaur
+Type      : Grass,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Evolve Bulbasaur/Ivysaur
+
+Name      : Charmander
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Charmeleon
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Evolve Charmander
+
+Name      : Charizard
+Type      : Fire,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Evolve Charmander/Charmeleon
+
+Name      : Squirtle
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Wartortle
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Squirtle
+
+Name      : Blastoise
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Squirtle/Wartortle
+
+Name      : Caterpie
+Type      : Bug
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Metapod
+Type      : Bug
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Butterfree
+Type      : Bug,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Weedle
+Type      : Bug,Poison
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Spacious Cave,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Kakuna
+Type      : Bug,Poison
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Evolve Weedle
+
+Name      : Beedrill
+Type      : Bug,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Evolve Weedle/Kakuna
+
+Name      : Pidgey
+Type      : Normal,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 229
+
+Name      : Pidgeotto
+Type      : Normal,Flying
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Evolve Pidgey
+
+Name      : Pidgeot
+Type      : Normal,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Evolve Pidgey/Pidgeotto
+
+Name      : Rattata
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 225,226,Spacious Cave,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Raticate
+Type      : Normal
+CatchRate : 127 (16.6% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 225,226,Spacious Cave,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Spearow
+Type      : Normal,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 225,226
+
+Name      : Fearow
+Type      : Normal,Flying
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 225,226,227,Stark Mountain
+
+Name      : Ekans
+Type      : Poison
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Dragon,Field
+Location  : Location data not yet available
+
+Name      : Arbok
+Type      : Poison
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Dragon,Field
+Location  : Location data not yet available
+
+Name      : Pikachu
+Type      : Electric
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Field,—
+Location  : Trophy Garden
+
+Name      : Raichu
+Type      : Electric
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Evolve Pikachu/Pikachu (Partner Pikachu)/Pichu
+
+Name      : Sandshrew
+Type      : Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Rocky Cave,Sandsear Cave,Big Bluff Cavern
+
+Name      : Sandslash
+Type      : Ground
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Rocky Cave,Sandsear Cave,Big Bluff Cavern
+
+Name      : Nidoran-F
+Type      : Poison
+CatchRate : 235 (30.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Route 201,Grassland Cave,Swampy Cave,Dazzling Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Stargleam Cavern,Bogsunk Cavern
+
+Name      : Nidorina
+Type      : Poison
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 221,Valor Lakefront,Grassland Cave,Swampy Cave,Dazzling Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Stargleam Cavern,Bogsunk Cavern
+
+Name      : Nidoqueen
+Type      : Poison,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Evolve Nidoran?/Nidorina
+
+Name      : Nidoran-M
+Type      : Poison
+CatchRate : 235 (30.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Route 201,Grassland Cave,Swampy Cave,Dazzling Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Stargleam Cavern,Bogsunk Cavern
+
+Name      : Nidorino
+Type      : Poison
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Route 221,Valor Lakefront,Grassland Cave,Swampy Cave,Dazzling Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Stargleam Cavern,Bogsunk Cavern
+
+Name      : Nidoking
+Type      : Poison,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Evolve Nidoran?/Nidorino
+
+Name      : Clefairy
+Type      : Fairy
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Mt. Coronet
+
+Name      : Clefable
+Type      : Fairy
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Evolve Clefairy/Cleffa
+
+Name      : Vulpix
+Type      : Fire
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Ninetales
+Type      : Fire
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Vulpix/Alolan Vulpix
+
+Name      : Jigglypuff
+Type      : Normal,Fairy
+CatchRate : 170 (22.2% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Location data not yet available
+
+Name      : Wigglytuff
+Type      : Normal,Fairy
+CatchRate : 50 (6.5% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Location data not yet available
+
+Name      : Zubat
+Type      : Poison,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 203,204,206,207,208,209,211,216,217,Acuity Lakefront,Iron Island,Lost Tower,Mt. Coronet,Oreburgh Gate,Oreburgh Mine,Ravaged Path,Wayward Cave,Spacious Cave,Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Golbat
+Type      : Poison,Flying
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 227,Iron Island,Lost Tower,Mt. Coronet,Oreburgh Gate,Ravaged Path,Snowpoint Temple,Stark Mountain,Turnback Cave,Victory Road,Spacious Cave,Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Oddish
+Type      : Grass,Poison
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Route 229,230,Spacious Cave,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Gloom
+Type      : Grass,Poison
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Route 224,229,230,Spacious Cave,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Vileplume
+Type      : Grass,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Evolve Oddish/Gloom
+
+Name      : Paras
+Type      : Bug,Grass
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Bug,Grass
+Location  : Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Parasect
+Type      : Bug,Grass
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Bug,Grass
+Location  : Evolve Paras
+
+Name      : Venonat
+Type      : Bug,Poison
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 229,Spacious Cave,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Venomoth
+Type      : Bug,Poison
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 229,Spacious Cave,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Diglett
+Type      : Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 228
+
+Name      : Dugtrio
+Type      : Ground
+CatchRate : 50 (6.5% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 228
+
+Name      : Meowth
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Persian
+Type      : Normal
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Psyduck
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 203,204,205,208,209,210,212,214,Celestic Town,Eterna City,Great Marsh,Lake Acuity,Lake Valor,Lake Verity,Oreburgh Gate,Ravaged Path,Twinleaf Town,Spacious Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Golduck
+Type      : Water
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 203,204,205,208,209,210,212,214,225,226,230,Celestic Town,Eterna City,Lake Acuity,Lake Valor,Lake Verity,Oreburgh Gate,Ravaged Path,Resort Area,Sendoff Spring,Twinleaf Town
+
+Name      : Mankey
+Type      : Fighting
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 225,226,Spacious Cave,Grassland Cave,Sunlit Cavern
+
+Name      : Primeape
+Type      : Fighting
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 225,226,Spacious Cave,Grassland Cave,Sunlit Cavern
+
+Name      : Growlithe
+Type      : Fire
+CatchRate : 190 (24.8% with PokéBall, full HP)  — 
+EggGroup  : Field,—
+Location  : Location data not yet available
+
+Name      : Arcanine
+Type      : Fire
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Poliwag
+Type      : Water
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Route 225,227,228,Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Poliwhirl
+Type      : Water
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Route 225,227,228,Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Poliwrath
+Type      : Water,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Evolve Poliwag/Poliwhirl
+
+Name      : Abra
+Type      : Psychic
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 203,215
+
+Name      : Kadabra
+Type      : Psychic
+CatchRate : 100 (13.1% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 215,Victory Road,Dazzling Cave,Stargleam Cavern
+
+Name      : Alakazam
+Type      : Psychic
+CatchRate : 50 (6.5% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Abra/Kadabra
+
+Name      : Machop
+Type      : Fighting
+CatchRate : 180 (23.5% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 207,208,210,Mt. Coronet,Spacious Cave,Grassland Cave,Whiteout Cave,Sunlit Cavern
+
+Name      : Machoke
+Type      : Fighting
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 210,211,216,217,225,226,Acuity Lakefront,Mt. Coronet,Stark Mountain,Victory Road,Spacious Cave,Grassland Cave,Whiteout Cave,Sunlit Cavern
+
+Name      : Machamp
+Type      : Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Machop/Machoke
+
+Name      : Bellsprout
+Type      : Grass,Poison
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Route 229,230,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Weepinbell
+Type      : Grass,Poison
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Route 224,229,230,Grassland Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Victreebel
+Type      : Grass,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Evolve Bellsprout/Weepinbell
+
+Name      : Tentacool
+Type      : Water,Poison
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Route 205,213,218,219,220,221,222,Canalave City,Fuego Ironworks,Iron Island,Pastoria City,Valley Windworks,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Tentacruel
+Type      : Water,Poison
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Route 205,213,218,219,220,221,222,223,224,226,230,Canalave City,Fuego Ironworks,Iron Island,Pastoria City,Pokémon League,Sunyshore City,Valley Windworks,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Geodude
+Type      : Rock,Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 206,207,210,211,214,215,Iron Island,Mt. Coronet,Oreburgh Gate,Oreburgh Mine,Ravaged Path,Ruin Maniac Tunnel,Stark Mountain,Valor Lakefront,Wayward Cave,Spacious Cave,Rocky Cave,Volcanic Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Graveler
+Type      : Rock,Ground
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 211,214,216,227,Iron Island,Mt. Coronet,Snowpoint Temple,Stark Mountain,Valor Lakefront,Victory Road,Spacious Cave,Rocky Cave,Volcanic Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Golem
+Type      : Rock,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Geodude/Alolan Geodude/Graveler/Alolan Graveler
+
+Name      : Ponyta
+Type      : Fire
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 206,210,211,214,215,Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Rapidash
+Type      : Fire
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Ponyta/Galarian Ponyta
+
+Name      : Slowpoke
+Type      : Water,Psychic
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Route 205,Spacious Cave,Grassland Cave,Fountainspring Cave,Dazzling Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Stargleam Cavern
+
+Name      : Slowbro
+Type      : Water,Psychic
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Slowpoke/Galarian Slowpoke
+
+Name      : Magnemite
+Type      : Electric,Steel
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Fuego Ironworks,Spacious Cave,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Magneton
+Type      : Electric,Steel
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Magnemite
+
+Name      : Farfetchd
+Type      : Normal,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Flying
+Location  : Route 221,Spacious Cave,Grassland Cave,Fountainspring Cave,Sunlit Cavern
+
+Name      : Doduo
+Type      : Normal,Flying
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 201,Spacious Cave,Grassland Cave,Sunlit Cavern
+
+Name      : Dodrio
+Type      : Normal,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Evolve Doduo
+
+Name      : Seel
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Location data not yet available
+
+Name      : Dewgong
+Type      : Water,Ice
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Location data not yet available
+
+Name      : Grimer
+Type      : Poison
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Route 212,Swampy Cave,Dazzling Cave,Stargleam Cavern,Bogsunk Cavern
+
+Name      : Muk
+Type      : Poison
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Evolve Grimer/Alolan Grimer
+
+Name      : Shellder
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Route 205,Fuego Ironworks,Valley Windworks,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Cloyster
+Type      : Water,Ice
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Evolve Shellder
+
+Name      : Gastly
+Type      : Ghost,Poison
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Route 209,Lost Tower,Old Chateau,Dazzling Cave,Stargleam Cavern
+
+Name      : Haunter
+Type      : Ghost,Poison
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Turnback Cave
+
+Name      : Gengar
+Type      : Ghost,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Evolve Gastly/Haunter
+
+Name      : Onix
+Type      : Rock,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Iron Island,Oreburgh Mine,Snowpoint Temple,Stark Mountain,Victory Road,Rocky Cave,Volcanic Cave,Sandsear Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Drowzee
+Type      : Psychic
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 215,Dazzling Cave,Stargleam Cavern
+
+Name      : Hypno
+Type      : Psychic
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Drowzee
+
+Name      : Krabby
+Type      : Water
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Route 226,Spacious Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Kingler
+Type      : Water
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Evolve Krabby
+
+Name      : Voltorb
+Type      : Electric
+CatchRate : 190 (24.8% with PokéBall, full HP)  — 
+EggGroup  : Mineral,—
+Location  : Route 218,Spacious Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Electrode
+Type      : Electric
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Voltorb
+
+Name      : Exeggcute
+Type      : Grass,Psychic
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Location data not yet available
+
+Name      : Exeggutor
+Type      : Grass,Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Location data not yet available
+
+Name      : Cubone
+Type      : Ground
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Route 203,Rocky Cave,Dazzling Cave,Riverbank Cave,Still-Water Cavern,Big Bluff Cavern,Stargleam Cavern
+
+Name      : Marowak
+Type      : Ground
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Evolve Cubone
+
+Name      : Hitmonlee
+Type      : Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Tyrogue
+
+Name      : Hitmonchan
+Type      : Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Tyrogue
+
+Name      : Lickitung
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Lake Valor,Spacious Cave,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Koffing
+Type      : Poison
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Breed Weezing/Galarian Weezing
+
+Name      : Weezing
+Type      : Poison
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Route 227,Stark Mountain,Swampy Cave,Bogsunk Cavern
+
+Name      : Rhyhorn
+Type      : Ground,Rock
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Route 227,Stark Mountain,Spacious Cave,Rocky Cave,Sandsear Cave,Sunlit Cavern,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Rhydon
+Type      : Ground,Rock
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Route 227,228,Stark Mountain,Spacious Cave,Rocky Cave,Sandsear Cave,Big Bluff Cavern
+
+Name      : Chansey
+Type      : Normal
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Route 209,210
+
+Name      : Tangela
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Swampy Cave,Bogsunk Cavern
+
+Name      : Kangaskhan
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Horsea
+Type      : Water
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Route 226,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Seadra
+Type      : Water
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Route 226
+
+Name      : Goldeen
+Type      : Water
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 203,204,209,212,214,Lake Acuity,Lake Valor,Lake Verity,Resort Area,Sendoff Spring,Twinleaf Town
+
+Name      : Seaking
+Type      : Water
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 203,204,209,212,214,Lake Acuity,Lake Valor,Lake Verity,Resort Area,Sendoff Spring,Twinleaf Town
+
+Name      : Staryu
+Type      : Water
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Canalave City,Sunyshore City,Fountainspring Cave,Icy Cave,Riverbank Cave,Still-Water Cavern,Glacial Cavern
+
+Name      : Starmie
+Type      : Water,Psychic
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Evolve Staryu
+
+Name      : Mr-Mime
+Type      : Psychic,Fairy
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Dazzling Cave,Whiteout Cave,Icy Cave,Stargleam Cavern,Glacial Cavern
+
+Name      : Scyther
+Type      : Bug,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Jynx
+Type      : Ice,Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Smoochum
+
+Name      : Electabuzz
+Type      : Electric
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Location data not yet available
+
+Name      : Magmar
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Magby
+
+Name      : Pinsir
+Type      : Bug
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 229,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Big Bluff Cavern
+
+Name      : Tauros
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 209,210,Spacious Cave,Grassland Cave,Fountainspring Cave,Rocky Cave,Whiteout Cave,Icy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Big Bluff Cavern,Glacial Cavern
+
+Name      : Magikarp
+Type      : Water
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Dragon,Water2
+Location  : Route 203,204,205,208,209,210,212,213,214,218,219,220,221,222,223,224,225,226,227,228,229,230,Canalave City,Celestic Town,Eterna City,Fuego Ironworks,Great Marsh,Iron Island,Lake Acuity,Lake Valor,Lake Verity,Mt. Coronet,Oreburgh Gate,Pastoria City,Pokémon League,Ravaged Path,Resort Area,Sendoff Spring,Sunyshore City,Twinleaf Town,Valley Windworks,Victory Road
+
+Name      : Gyarados
+Type      : Water,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Water2
+Location  : Route 203,204,205,208,209,210,212,213,214,218,219,220,221,222,223,224,225,226,227,228,229,230,Canalave City,Celestic Town,Eterna City,Fuego Ironworks,Great Marsh,Iron Island,Lake Acuity,Lake Valor,Lake Verity,Mt. Coronet,Oreburgh Gate,Pastoria City,Pokémon League,Ravaged Path,Resort Area,Sendoff Spring,Sunyshore City,Twinleaf Town,Valley Windworks,Victory Road
+
+Name      : Lapras
+Type      : Water,Ice
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Victory Road
+
+Name      : Ditto
+Type      : Normal
+CatchRate : 35 (4.6% with PokéBall, full HP) 
+EggGroup  : Ditto
+Location  : Route 218,Dazzling Cave,Stargleam Cavern
+
+Name      : Eevee
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,—
+Location  : Location data not yet available
+
+Name      : Vaporeon
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Jolteon
+Type      : Electric
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Flareon
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Porygon
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Location data not yet available
+
+Name      : Omanyte
+Type      : Rock,Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Location data not yet available
+
+Name      : Omastar
+Type      : Rock,Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Location data not yet available
+
+Name      : Kabuto
+Type      : Rock,Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Location data not yet available
+
+Name      : Kabutops
+Type      : Rock,Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Location data not yet available
+
+Name      : Aerodactyl
+Type      : Rock,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Location data not yet available
+
+Name      : Snorlax
+Type      : Normal
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Evolve Munchlax
+
+Name      : Articuno
+Type      : Ice,Flying
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Zapdos
+Type      : Electric,Flying
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Moltres
+Type      : Fire,Flying
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Dratini
+Type      : Dragon
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Mt. Coronet,Fountainspring Cave
+
+Name      : Dragonair
+Type      : Dragon
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Mt. Coronet
+
+Name      : Dragonite
+Type      : Dragon,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Evolve Dratini/Dragonair
+
+Name      : Mewtwo
+Type      : Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Mew
+Type      : Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Chikorita
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Bayleef
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Evolve Chikorita
+
+Name      : Meganium
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Evolve Chikorita/Bayleef
+
+Name      : Cyndaquil
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Quilava
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Cyndaquil
+
+Name      : Typhlosion
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Cyndaquil/Quilava
+
+Name      : Totodile
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Croconaw
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Totodile
+
+Name      : Feraligatr
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Totodile/Croconaw
+
+Name      : Sentret
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 202,Spacious Cave,Rocky Cave,Volcanic Cave,Whiteout Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Furret
+Type      : Normal
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Rocky Cave,Volcanic Cave,Whiteout Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Hoothoot
+Type      : Normal,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 210,211,Great Marsh,Spacious Cave,Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Noctowl
+Type      : Normal,Flying
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 210,211,216,217,Acuity Lakefront,Great Marsh,Lake Acuity,Lake Valor,Mt. Coronet,Sendoff Spring
+
+Name      : Ledyba
+Type      : Bug,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Breed Ledian
+
+Name      : Ledian
+Type      : Bug,Flying
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 229,Grassland Cave,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Spinarak
+Type      : Bug,Poison
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Breed Ariados
+
+Name      : Ariados
+Type      : Bug,Poison
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 229,Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Crobat
+Type      : Poison,Flying
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Evolve Zubat/Golbat
+
+Name      : Chinchou
+Type      : Water,Electric
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 220,Fountainspring Cave,Icy Cave,Glacial Cavern
+
+Name      : Lanturn
+Type      : Water,Electric
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 220,Fountainspring Cave,Icy Cave,Glacial Cavern
+
+Name      : Pichu
+Type      : Electric
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Trophy Garden
+
+Name      : Cleffa
+Type      : Fairy
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Mt. Coronet
+
+Name      : Igglybuff
+Type      : Normal,Fairy
+CatchRate : 170 (22.2% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Togepi
+Type      : Fairy
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 230,Fountainspring Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Togetic
+Type      : Fairy,Flying
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Flying
+Location  : Evolve Togepi
+
+Name      : Natu
+Type      : Psychic,Flying
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 224,Spacious Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Xatu
+Type      : Psychic,Flying
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Evolve Natu
+
+Name      : Mareep
+Type      : Electric
+CatchRate : 235 (30.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Valley Windworks,Grassland Cave,Whiteout Cave,Sunlit Cavern
+
+Name      : Flaaffy
+Type      : Electric
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Route 222,Grassland Cave,Whiteout Cave,Sunlit Cavern
+
+Name      : Ampharos
+Type      : Electric
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Evolve Mareep/Flaaffy
+
+Name      : Bellossom
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Evolve Oddish/Gloom
+
+Name      : Marill
+Type      : Water,Fairy
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Water1
+Location  : Great Marsh
+
+Name      : Azumarill
+Type      : Water,Fairy
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Water1
+Location  : Evolve Marill/Azurill
+
+Name      : Sudowoodo
+Type      : Rock
+CatchRate : 65 (8.5% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 214,221
+
+Name      : Politoed
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Evolve Poliwag/Poliwhirl
+
+Name      : Hoppip
+Type      : Grass,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Route 205,Fuego Ironworks,Grassland Cave,Sunlit Cavern
+
+Name      : Skiploom
+Type      : Grass,Flying
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Fuego Ironworks,Grassland Cave,Sunlit Cavern
+
+Name      : Jumpluff
+Type      : Grass,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Evolve Hoppip/Skiploom
+
+Name      : Aipom
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave
+
+Name      : Sunkern
+Type      : Grass
+CatchRate : 235 (30.7% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Route 204,Grassland Cave,Sunlit Cavern
+
+Name      : Sunflora
+Type      : Grass
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Evolve Sunkern
+
+Name      : Yanma
+Type      : Bug,Flying
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Wooper
+Type      : Water,Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 212,Great Marsh,Fountainspring Cave,Swampy Cave,Bogsunk Cavern
+
+Name      : Quagsire
+Type      : Water,Ground
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 212,Great Marsh,Fountainspring Cave,Swampy Cave,Bogsunk Cavern
+
+Name      : Espeon
+Type      : Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Umbreon
+Type      : Dark
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Murkrow
+Type      : Dark,Flying
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Location data not yet available
+
+Name      : Slowking
+Type      : Water,Psychic
+CatchRate : 70 (9.1% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Slowpoke/Galarian Slowpoke
+
+Name      : Misdreavus
+Type      : Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Eterna Forest,Lost Tower,Dazzling Cave,Stargleam Cavern
+
+Name      : Unown
+Type      : Psychic
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Solaceon Ruins
+
+Name      : Wobbuffet
+Type      : Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Lake Acuity,Lake Valor,Lake Verity,Dazzling Cave,Stargleam Cavern
+
+Name      : Girafarig
+Type      : Normal,Psychic
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 214,Valor Lakefront,Dazzling Cave,Stargleam Cavern
+
+Name      : Pineco
+Type      : Bug
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Forretress
+Type      : Bug,Steel
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Evolve Pineco
+
+Name      : Dunsparce
+Type      : Normal
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 208
+
+Name      : Gligar
+Type      : Ground,Flying
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Steelix
+Type      : Steel,Ground
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Iron Island,Snowpoint Temple,Victory Road
+
+Name      : Snubbull
+Type      : Fairy
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Route 209,Dazzling Cave,Stargleam Cavern
+
+Name      : Granbull
+Type      : Fairy
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Evolve Snubbull
+
+Name      : Qwilfish
+Type      : Water,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Iron Island,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Scizor
+Type      : Bug,Steel
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Shuckle
+Type      : Bug,Rock
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Grassland Cave,Rocky Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Big Bluff Cavern
+
+Name      : Heracross
+Type      : Bug,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Sneasel
+Type      : Dark,Ice
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 216,217,Acuity Lakefront,Lake Acuity,Snowpoint Temple,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Teddiursa
+Type      : Normal
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Grassland Cave,Rocky Cave,Whiteout Cave,Icy Cave,Sunlit Cavern,Glacial Cavern
+
+Name      : Ursaring
+Type      : Normal
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Teddiursa
+
+Name      : Slugma
+Type      : Fire
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Stark Mountain,Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Magcargo
+Type      : Fire,Rock
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Stark Mountain,Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Swinub
+Type      : Ice,Ground
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 217,Swampy Cave,Whiteout Cave,Icy Cave,Glacial Cavern,Bogsunk Cavern
+
+Name      : Piloswine
+Type      : Ice,Ground
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Swinub
+
+Name      : Corsola
+Type      : Water,Rock
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Route 230,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Remoraid
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Water1,Water2
+Location  : Route 213,222,223,224,230,Pastoria City,Pokémon League,Sunyshore City
+
+Name      : Octillery
+Type      : Water
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Water1,Water2
+Location  : Route 213,222,223,224,230,Pastoria City,Pokémon League,Sunyshore City,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Delibird
+Type      : Ice,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 216,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Mantine
+Type      : Water,Flying
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Evolve Mantyke
+
+Name      : Skarmory
+Type      : Steel,Flying
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 227,Stark Mountain
+
+Name      : Houndour
+Type      : Dark,Fire
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Breed Houndoom
+
+Name      : Houndoom
+Type      : Dark,Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 214,215,Spacious Cave,Volcanic Cave,Dazzling Cave,Sandsear Cave,Stargleam Cavern,Typhlo Cavern
+
+Name      : Kingdra
+Type      : Water,Dragon
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Evolve Horsea/Seadra
+
+Name      : Phanpy
+Type      : Ground
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 207,Rocky Cave,Big Bluff Cavern
+
+Name      : Donphan
+Type      : Ground
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Phanpy
+
+Name      : Porygon2
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Location data not yet available
+
+Name      : Stantler
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 207
+
+Name      : Smeargle
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 212
+
+Name      : Tyrogue
+Type      : Fighting
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 208,211,Spacious Cave,Grassland Cave,Whiteout Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Hitmontop
+Type      : Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Tyrogue
+
+Name      : Smoochum
+Type      : Ice,Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Lake Acuity,Dazzling Cave,Icy Cave,Stargleam Cavern,Glacial Cavern
+
+Name      : Elekid
+Type      : Electric
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Magby
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Miltank
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 209,210,Spacious Cave,Grassland Cave,Sunlit Cavern
+
+Name      : Blissey
+Type      : Normal
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Evolve Chansey/Happiny
+
+Name      : Raikou
+Type      : Electric
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Entei
+Type      : Fire
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Suicune
+Type      : Water
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Larvitar
+Type      : Rock,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Pupitar
+Type      : Rock,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Tyranitar
+Type      : Rock,Dark
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Lugia
+Type      : Psychic,Flying
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Ho-Oh
+Type      : Fire,Flying
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Celebi
+Type      : Psychic,Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Treecko
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Grovyle
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Evolve Treecko
+
+Name      : Sceptile
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Evolve Treecko/Grovyle
+
+Name      : Torchic
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Combusken
+Type      : Fire,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Torchic
+
+Name      : Blaziken
+Type      : Fire,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Torchic/Combusken
+
+Name      : Mudkip
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Marshtomp
+Type      : Water,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Mudkip
+
+Name      : Swampert
+Type      : Water,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster,Water1
+Location  : Evolve Mudkip/Marshtomp
+
+Name      : Poochyena
+Type      : Dark
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Dazzling Cave,Icy Cave,Stargleam Cavern,Glacial Cavern
+
+Name      : Mightyena
+Type      : Dark
+CatchRate : 127 (16.6% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Spacious Cave,Dazzling Cave,Icy Cave,Stargleam Cavern,Glacial Cavern
+
+Name      : Zigzagoon
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 202,Spacious Cave,Rocky Cave,Big Bluff Cavern
+
+Name      : Linoone
+Type      : Normal
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Zigzagoon/Galarian Zigzagoon
+
+Name      : Wurmple
+Type      : Bug
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Eterna Forest,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Silcoon
+Type      : Bug
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Evolve Wurmple
+
+Name      : Beautifly
+Type      : Bug,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 224
+
+Name      : Cascoon
+Type      : Bug
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Eterna Forest,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Dustox
+Type      : Bug,Poison
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 230,Eterna Forest
+
+Name      : Lotad
+Type      : Water,Grass
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Grass,Water1
+Location  : Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Lombre
+Type      : Water,Grass
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Grass,Water1
+Location  : Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Ludicolo
+Type      : Water,Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Water1
+Location  : Evolve Lotad/Lombre
+
+Name      : Seedot
+Type      : Grass
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field,Grass
+Location  : Location data not yet available
+
+Name      : Nuzleaf
+Type      : Grass,Dark
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field,Grass
+Location  : Location data not yet available
+
+Name      : Shiftry
+Type      : Grass,Dark
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Grass
+Location  : Location data not yet available
+
+Name      : Taillow
+Type      : Normal,Flying
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Breed Swellow
+
+Name      : Swellow
+Type      : Normal,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 213
+
+Name      : Wingull
+Type      : Water,Flying
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Flying,Water1
+Location  : Route 205,213,218,219,220,221,222,229,Canalave City,Fuego Ironworks,Iron Island,Pastoria City,Valley Windworks,Spacious Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Pelipper
+Type      : Water,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Flying,Water1
+Location  : Route 205,213,218,219,220,221,222,223,224,226,229,230,Canalave City,Fuego Ironworks,Iron Island,Pastoria City,Pokémon League,Sunyshore City,Valley Windworks,Spacious Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Ralts
+Type      : Psychic,Fairy
+CatchRate : 235 (30.7% with PokéBall, full HP) 
+EggGroup  : Amorphous,Human-Like
+Location  : Route 203,204,Fountainspring Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Kirlia
+Type      : Psychic,Fairy
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Amorphous,Human-Like
+Location  : Route 203,204,Dazzling Cave,Stargleam Cavern
+
+Name      : Gardevoir
+Type      : Psychic,Fairy
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous,Human-Like,Amorphous
+Location  : Evolve Ralts/Kirlia
+
+Name      : Surskit
+Type      : Bug,Water
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Bug,Water1
+Location  : Lake Verity,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Masquerain
+Type      : Bug,Flying
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Bug,Water1
+Location  : Evolve Surskit
+
+Name      : Shroomish
+Type      : Grass
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Location data not yet available
+
+Name      : Breloom
+Type      : Grass,Fighting
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Location data not yet available
+
+Name      : Slakoth
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Eterna Forest
+
+Name      : Vigoroth
+Type      : Normal
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Slakoth
+
+Name      : Slaking
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Slakoth/Vigoroth
+
+Name      : Nincada
+Type      : Bug,Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Eterna Forest,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Ninjask
+Type      : Bug,Flying
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Evolve Nincada
+
+Name      : Shedinja
+Type      : Bug,Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Nincada
+
+Name      : Whismur
+Type      : Normal
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Breed Loudred/Exploud
+
+Name      : Loudred
+Type      : Normal
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Mt. Coronet
+
+Name      : Exploud
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Evolve Whismur/Loudred
+
+Name      : Makuhita
+Type      : Fighting
+CatchRate : 180 (23.5% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 225
+
+Name      : Hariyama
+Type      : Fighting
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Makuhita
+
+Name      : Azurill
+Type      : Normal,Fairy
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Great Marsh
+
+Name      : Nosepass
+Type      : Rock
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 206
+
+Name      : Skitty
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Route 222,Spacious Cave
+
+Name      : Delcatty
+Type      : Normal
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Evolve Skitty
+
+Name      : Sableye
+Type      : Dark,Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Dazzling Cave,Stargleam Cavern
+
+Name      : Mawile
+Type      : Steel,Fairy
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Location data not yet available
+
+Name      : Aron
+Type      : Steel,Rock
+CatchRate : 180 (23.5% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Rocky Cave,Whiteout Cave,Icy Cave,Big Bluff Cavern,Glacial Cavern
+
+Name      : Lairon
+Type      : Steel,Rock
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Rocky Cave,Whiteout Cave,Icy Cave,Big Bluff Cavern,Glacial Cavern
+
+Name      : Aggron
+Type      : Steel,Rock
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Evolve Aron/Lairon
+
+Name      : Meditite
+Type      : Fighting,Psychic
+CatchRate : 180 (23.5% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 208,210,211,216,217,Acuity Lakefront,Mt. Coronet,Dazzling Cave,Whiteout Cave,Stargleam Cavern
+
+Name      : Medicham
+Type      : Fighting,Psychic
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Route 217,Acuity Lakefront,Mt. Coronet,Victory Road
+
+Name      : Electrike
+Type      : Electric
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Valley Windworks
+
+Name      : Manectric
+Type      : Electric
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Electrike
+
+Name      : Plusle
+Type      : Electric
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Location data not yet available
+
+Name      : Minun
+Type      : Electric
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Fairy
+Location  : Location data not yet available
+
+Name      : Volbeat
+Type      : Bug
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Bug,Human-Like
+Location  : Route 229,Grassland Cave,Dazzling Cave,Sunlit Cavern,Stargleam Cavern
+
+Name      : Illumise
+Type      : Bug
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Bug,Human-Like
+Location  : Route 229,Grassland Cave,Dazzling Cave,Sunlit Cavern,Stargleam Cavern
+
+Name      : Roselia
+Type      : Grass,Poison
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Route 212,221,224,225,Trophy Garden,Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Gulpin
+Type      : Poison
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Location data not yet available
+
+Name      : Swalot
+Type      : Poison
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Location data not yet available
+
+Name      : Carvanha
+Type      : Water,Dark
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Great Marsh,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Sharpedo
+Type      : Water,Dark
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 213,222
+
+Name      : Wailmer
+Type      : Water
+CatchRate : 125 (16.3% with PokéBall, full HP) 
+EggGroup  : Field,Water2
+Location  : Route 223,230
+
+Name      : Wailord
+Type      : Water
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field,Water2
+Location  : Route 223,230
+
+Name      : Numel
+Type      : Fire,Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 227,Stark Mountain,Rocky Cave,Volcanic Cave,Sandsear Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Camerupt
+Type      : Fire,Ground
+CatchRate : 150 (19.6% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 227,Stark Mountain,Rocky Cave,Volcanic Cave,Sandsear Cave,Big Bluff Cavern,Typhlo Cavern
+
+Name      : Torkoal
+Type      : Fire
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 227,Stark Mountain,Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Spoink
+Type      : Psychic
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 214
+
+Name      : Grumpig
+Type      : Psychic
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Spoink
+
+Name      : Spinda
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Route 227
+
+Name      : Trapinch
+Type      : Ground
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug,Dragon
+Location  : Route 228,Rocky Cave,Sandsear Cave,Big Bluff Cavern
+
+Name      : Vibrava
+Type      : Ground,Dragon
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug,Dragon
+Location  : Route 228,Grassland Cave,Rocky Cave,Sunlit Cavern,Big Bluff Cavern
+
+Name      : Flygon
+Type      : Ground,Dragon
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug,Dragon
+Location  : Evolve Trapinch/Vibrava
+
+Name      : Cacnea
+Type      : Grass
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Grass,Human-Like
+Location  : Route 228,Grassland Cave,Rocky Cave,Swampy Cave,Sunlit Cavern,Big Bluff Cavern,Bogsunk Cavern
+
+Name      : Cacturne
+Type      : Grass,Dark
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Grass,Human-Like
+Location  : Route 228,Grassland Cave,Rocky Cave,Swampy Cave,Sunlit Cavern,Big Bluff Cavern,Bogsunk Cavern
+
+Name      : Swablu
+Type      : Normal,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Dragon,Flying
+Location  : Route 211,Spacious Cave,Fountainspring Cave,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Altaria
+Type      : Dragon,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Flying
+Location  : Evolve Swablu
+
+Name      : Zangoose
+Type      : Normal
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Seviper
+Type      : Poison
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Dragon,Field
+Location  : Grassland Cave,Swampy Cave,Dazzling Cave,Sunlit Cavern,Stargleam Cavern,Bogsunk Cavern
+
+Name      : Lunatone
+Type      : Rock,Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Dazzling Cave,Riverbank Cave,Still-Water Cavern,Stargleam Cavern
+
+Name      : Solrock
+Type      : Rock,Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Location data not yet available
+
+Name      : Barboach
+Type      : Water,Ground
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 205,208,210,212,227,228,Celestic Town,Eterna City,Great Marsh,Mt. Coronet,Oreburgh Gate,Ravaged Path,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Whiscash
+Type      : Water,Ground
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 205,208,210,212,227,228,Celestic Town,Eterna City,Great Marsh,Mt. Coronet,Oreburgh Gate,Ravaged Path,Fountainspring Cave,Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Corphish
+Type      : Water
+CatchRate : 205 (26.8% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Celestic Town,Spacious Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Crawdaunt
+Type      : Water,Dark
+CatchRate : 155 (20.3% with PokéBall, full HP) 
+EggGroup  : Water1,Water3
+Location  : Celestic Town,Spacious Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Baltoy
+Type      : Ground,Psychic
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 206,Rocky Cave,Dazzling Cave,Big Bluff Cavern,Stargleam Cavern
+
+Name      : Claydol
+Type      : Ground,Psychic
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Baltoy
+
+Name      : Lileep
+Type      : Rock,Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Location data not yet available
+
+Name      : Cradily
+Type      : Rock,Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Location data not yet available
+
+Name      : Anorith
+Type      : Rock,Bug
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Location data not yet available
+
+Name      : Armaldo
+Type      : Rock,Bug
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Water3
+Location  : Location data not yet available
+
+Name      : Feebas
+Type      : Water
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Location data not yet available
+
+Name      : Milotic
+Type      : Water
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Dragon,Water1
+Location  : Location data not yet available
+
+Name      : Castform
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous,Fairy
+Location  : Location data not yet available
+
+Name      : Kecleon
+Type      : Normal
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Shuppet
+Type      : Ghost
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Breed Banette
+
+Name      : Banette
+Type      : Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Route 225,226,227,Stark Mountain,Dazzling Cave,Stargleam Cavern
+
+Name      : Duskull
+Type      : Ghost
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Route 224,Dazzling Cave,Stargleam Cavern
+
+Name      : Dusclops
+Type      : Ghost
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Route 224,Dazzling Cave,Stargleam Cavern
+
+Name      : Tropius
+Type      : Grass,Flying
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Grassland Cave,Swampy Cave,Sunlit Cavern,Bogsunk Cavern
+
+Name      : Chimecho
+Type      : Psychic
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Mt. Coronet,Sendoff Spring
+
+Name      : Absol
+Type      : Dark
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 213,Spacious Cave,Grassland Cave,Dazzling Cave,Sunlit Cavern,Big Bluff Cavern,Stargleam Cavern
+
+Name      : Wynaut
+Type      : Psychic
+CatchRate : 125 (16.3% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Breed Wobbuffet
+
+Name      : Snorunt
+Type      : Ice
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Mineral
+Location  : Route 216,217,Acuity Lakefront,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Glalie
+Type      : Ice
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Mineral
+Location  : Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Spheal
+Type      : Ice,Water
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 226,230,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Sealeo
+Type      : Ice,Water
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 226,230,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Walrein
+Type      : Ice,Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Clamperl
+Type      : Water
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Route 219,221,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Huntail
+Type      : Water
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Evolve Clamperl
+
+Name      : Gorebyss
+Type      : Water
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Water1
+Location  : Evolve Clamperl
+
+Name      : Relicanth
+Type      : Water,Rock
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Water1,Water2
+Location  : Route 226
+
+Name      : Luvdisc
+Type      : Water
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 224,Pokémon League
+
+Name      : Bagon
+Type      : Dragon
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon
+Location  : Route 210,Spacious Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Shelgon
+Type      : Dragon
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon
+Location  : Spacious Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Salamence
+Type      : Dragon,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon
+Location  : Evolve Bagon/Shelgon
+
+Name      : Beldum
+Type      : Steel,Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 228,Rocky Cave,Whiteout Cave,Icy Cave,Big Bluff Cavern,Glacial Cavern
+
+Name      : Metang
+Type      : Steel,Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Beldum
+
+Name      : Metagross
+Type      : Steel,Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Beldum/Metang
+
+Name      : Regirock
+Type      : Rock
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Regice
+Type      : Ice
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Registeel
+Type      : Steel
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Latias
+Type      : Dragon,Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Latios
+Type      : Dragon,Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Kyogre
+Type      : Water
+CatchRate : 3 (0.4% with PokéBall, full HP)  5 (0.7% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Groudon
+Type      : Ground
+CatchRate : 3 (0.4% with PokéBall, full HP)  5 (0.7% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Rayquaza
+Type      : Dragon,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP)  3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Jirachi
+Type      : Steel,Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Deoxys
+Type      : Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Turtwig
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Grotle
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Evolve Turtwig
+
+Name      : Torterra
+Type      : Grass,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Evolve Turtwig/Grotle
+
+Name      : Chimchar
+Type      : Fire
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Volcanic Cave,Sandsear Cave,Typhlo Cavern
+
+Name      : Monferno
+Type      : Fire,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Evolve Chimchar
+
+Name      : Infernape
+Type      : Fire,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Evolve Chimchar/Monferno
+
+Name      : Piplup
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Prinplup
+Type      : Water
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Evolve Piplup
+
+Name      : Empoleon
+Type      : Water,Steel
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Evolve Piplup/Prinplup
+
+Name      : Starly
+Type      : Normal,Flying
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 201,202,203,204,209,212,Great Marsh,Lake Verity
+
+Name      : Staravia
+Type      : Normal,Flying
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 209,212,Lake Valor,Sendoff Spring,Trophy Garden,Valor Lakefront
+
+Name      : Staraptor
+Type      : Normal,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Evolve Starly/Staravia
+
+Name      : Bidoof
+Type      : Normal
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 201,202,203,204,205,208,211,Great Marsh,Lake Verity,Valley Windworks,Spacious Cave,Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Bibarel
+Type      : Normal,Water
+CatchRate : 127 (16.6% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 208,209,210,212,Great Marsh,Lake Acuity,Lake Valor,Sendoff Spring,Valor Lakefront,Spacious Cave,Grassland Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Kricketot
+Type      : Bug
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 202,203,204,206,207,Spacious Cave,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Kricketune
+Type      : Bug
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Route 206,210,212,214,215,Trophy Garden,Valor Lakefront
+
+Name      : Shinx
+Type      : Electric
+CatchRate : 235 (30.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 202,203,204,Fuego Ironworks,Spacious Cave,Grassland Cave,Whiteout Cave,Sunlit Cavern
+
+Name      : Luxio
+Type      : Electric
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Fuego Ironworks,Spacious Cave,Grassland Cave,Whiteout Cave,Sunlit Cavern
+
+Name      : Luxray
+Type      : Electric
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Shinx/Luxio
+
+Name      : Budew
+Type      : Grass,Poison
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 204,212,Eterna Forest,Great Marsh,Spacious Cave,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Roserade
+Type      : Grass,Poison
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Evolve Roselia/Budew
+
+Name      : Cranidos
+Type      : Rock
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Rampardos
+Type      : Rock
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Shieldon
+Type      : Rock,Steel
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Bastiodon
+Type      : Rock,Steel
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Location data not yet available
+
+Name      : Burmy
+Type      : Bug
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Wormadam
+Type      : Bug,Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Mothim
+Type      : Bug,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Combee
+Type      : Bug,Flying
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Grassland Cave,Sunlit Cavern
+
+Name      : Vespiquen
+Type      : Bug,Flying
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Evolve Combee
+
+Name      : Pachirisu
+Type      : Electric
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Fairy,Field
+Location  : Route 205,Fuego Ironworks,Valley Windworks,Spacious Cave,Whiteout Cave
+
+Name      : Buizel
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 205,213,224,Valley Windworks,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Floatzel
+Type      : Water
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field,Water1
+Location  : Route 213,218,221,222,224,230,Fuego Ironworks,Victory Road
+
+Name      : Cherubi
+Type      : Grass
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Grassland Cave,Sunlit Cavern
+
+Name      : Cherrim
+Type      : Grass
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Grass
+Location  : Evolve Cherubi
+
+Name      : Shellos
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Amorphous,Water1
+Location  : Route 205,213,218,221,224,Fuego Ironworks,Valley Windworks,Fountainspring Cave
+
+Name      : Gastrodon
+Type      : Water,Ground
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Amorphous,Water1
+Location  : Route 218,221,222,224,230,Fuego Ironworks,Fountainspring Cave
+
+Name      : Ambipom
+Type      : Normal
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Aipom
+
+Name      : Drifloon
+Type      : Ghost,Flying
+CatchRate : 125 (16.3% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Location data not yet available
+
+Name      : Drifblim
+Type      : Ghost,Flying
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Location data not yet available
+
+Name      : Buneary
+Type      : Normal
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Eterna Forest,Spacious Cave,Grassland Cave,Whiteout Cave,Icy Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern,Glacial Cavern
+
+Name      : Lopunny
+Type      : Normal
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Evolve Buneary
+
+Name      : Mismagius
+Type      : Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Evolve Misdreavus
+
+Name      : Honchkrow
+Type      : Dark,Flying
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Location data not yet available
+
+Name      : Glameow
+Type      : Normal
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 218,222,Spacious Cave,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Purugly
+Type      : Normal
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 222,229,Spacious Cave,Grassland Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Chingling
+Type      : Psychic
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 211,Lake Acuity,Lake Valor,Mt. Coronet,Spacious Cave,Dazzling Cave,Stargleam Cavern
+
+Name      : Stunky
+Type      : Poison,Dark
+CatchRate : 225 (29.4% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Skuntank
+Type      : Poison,Dark
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Bronzor
+Type      : Steel,Psychic
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Route 206,Mt. Coronet,Turnback Cave,Wayward Cave,Rocky Cave,Dazzling Cave,Icy Cave,Big Bluff Cavern,Stargleam Cavern,Glacial Cavern
+
+Name      : Bronzong
+Type      : Steel,Psychic
+CatchRate : 90 (11.8% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Mt. Coronet,Turnback Cave
+
+Name      : Bonsly
+Type      : Rock
+CatchRate : 255 (33.3% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 209,210
+
+Name      : Mime-Jr
+Type      : Psychic,Fairy
+CatchRate : 145 (19.0% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Breed Mr. Mime/Mr. Rime
+
+Name      : Happiny
+Type      : Normal
+CatchRate : 130 (17.0% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Breed Chansey/Blissey
+
+Name      : Chatot
+Type      : Normal,Flying
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Flying
+Location  : Route 222,224
+
+Name      : Spiritomb
+Type      : Ghost,Dark
+CatchRate : 100 (13.1% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Location data not yet available
+
+Name      : Gible
+Type      : Dragon,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Wayward Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Gabite
+Type      : Dragon,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Garchomp
+Type      : Dragon,Ground
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Dragon,Monster
+Location  : Evolve Gible/Gabite
+
+Name      : Munchlax
+Type      : Normal
+CatchRate : 50 (6.5% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Spacious Cave,Grassland Cave,Whiteout Cave,Riverbank Cave,Still-Water Cavern,Sunlit Cavern
+
+Name      : Riolu
+Type      : Fighting
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Lucario
+Type      : Fighting,Steel
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field,Human-Like
+Location  : Location data not yet available
+
+Name      : Hippopotas
+Type      : Ground
+CatchRate : 140 (18.3% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Ruin Maniac Tunnel,Rocky Cave,Sandsear Cave,Big Bluff Cavern
+
+Name      : Hippowdon
+Type      : Ground
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Route 228
+
+Name      : Skorupi
+Type      : Poison,Bug
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Bug,Water3
+Location  : Rocky Cave,Volcanic Cave,Swampy Cave,Sandsear Cave,Big Bluff Cavern,Bogsunk Cavern,Typhlo Cavern
+
+Name      : Drapion
+Type      : Poison,Dark
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Bug,Water3
+Location  : Evolve Skorupi
+
+Name      : Croagunk
+Type      : Poison,Fighting
+CatchRate : 140 (18.3% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Swampy Cave,Riverbank Cave,Still-Water Cavern,Bogsunk Cavern
+
+Name      : Toxicroak
+Type      : Poison,Fighting
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Croagunk
+
+Name      : Carnivine
+Type      : Grass
+CatchRate : 200 (26.1% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Location data not yet available
+
+Name      : Finneon
+Type      : Water
+CatchRate : 190 (24.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 205,218,219,220,221,Canalave City,Fuego Ironworks,Iron Island,Valley Windworks
+
+Name      : Lumineon
+Type      : Water
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Water2
+Location  : Route 205,218,219,220,221,Canalave City,Fuego Ironworks,Iron Island,Valley Windworks
+
+Name      : Mantyke
+Type      : Water,Flying
+CatchRate : 25 (3.3% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Route 223,Sunyshore City,Spacious Cave,Fountainspring Cave,Riverbank Cave,Still-Water Cavern
+
+Name      : Snover
+Type      : Grass,Ice
+CatchRate : 120 (15.7% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Route 216,217,Acuity Lakefront,Mt. Coronet,Whiteout Cave,Icy Cave,Glacial Cavern
+
+Name      : Abomasnow
+Type      : Grass,Ice
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Grass,Monster
+Location  : Mt. Coronet
+
+Name      : Weavile
+Type      : Dark,Ice
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Sneasel
+
+Name      : Magnezone
+Type      : Electric,Steel
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Magnemite/Magneton
+
+Name      : Lickilicky
+Type      : Normal
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Monster
+Location  : Evolve Lickitung
+
+Name      : Rhyperior
+Type      : Ground,Rock
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Field,Monster
+Location  : Evolve Rhyhorn/Rhydon
+
+Name      : Tangrowth
+Type      : Grass
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Grass
+Location  : Swampy Cave,Bogsunk Cavern
+
+Name      : Electivire
+Type      : Electric
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Location data not yet available
+
+Name      : Magmortar
+Type      : Fire
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Human-Like
+Location  : Evolve Magmar/Magby
+
+Name      : Togekiss
+Type      : Fairy,Flying
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Fairy,Flying
+Location  : Evolve Togepi/Togetic
+
+Name      : Yanmega
+Type      : Bug,Flying
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Leafeon
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Glaceon
+Type      : Ice
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Location data not yet available
+
+Name      : Gliscor
+Type      : Ground,Flying
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Bug
+Location  : Location data not yet available
+
+Name      : Mamoswine
+Type      : Ice,Ground
+CatchRate : 50 (6.5% with PokéBall, full HP) 
+EggGroup  : Field
+Location  : Evolve Swinub/Piloswine
+
+Name      : Porygon-Z
+Type      : Normal
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Location data not yet available
+
+Name      : Gallade
+Type      : Psychic,Fighting
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous,Human-Like,Amorphous
+Location  : Evolve Ralts/Kirlia
+
+Name      : Probopass
+Type      : Rock,Steel
+CatchRate : 60 (7.8% with PokéBall, full HP) 
+EggGroup  : Mineral
+Location  : Evolve Nosepass
+
+Name      : Dusknoir
+Type      : Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Evolve Duskull/Dusclops
+
+Name      : Froslass
+Type      : Ice,Ghost
+CatchRate : 75 (9.8% with PokéBall, full HP) 
+EggGroup  : Fairy,Mineral
+Location  : Evolve Snorunt
+
+Name      : Rotom
+Type      : Electric,Ghost
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Amorphous
+Location  : Location data not yet available
+
+Name      : Uxie
+Type      : Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Mesprit
+Type      : Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Azelf
+Type      : Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Dialga
+Type      : Steel,Dragon
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Palkia
+Type      : Water,Dragon
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Heatran
+Type      : Fire,Steel
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Regigigas
+Type      : Normal
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Giratina
+Type      : Ghost,Dragon
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Cresselia
+Type      : Psychic
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Phione
+Type      : Water
+CatchRate : 30 (3.9% with PokéBall, full HP) 
+EggGroup  : Fairy,Water1
+Location  : Location data not yet available
+
+Name      : Manaphy
+Type      : Water
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Fairy,Water1
+Location  : Location data not yet available
+
+Name      : Darkrai
+Type      : Dark
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Shaymin
+Type      : Grass
+CatchRate : 45 (5.9% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet available
+
+Name      : Arceus
+Type      : Normal
+CatchRate : 3 (0.4% with PokéBall, full HP) 
+EggGroup  : Undiscovered
+Location  : Location data not yet availab
